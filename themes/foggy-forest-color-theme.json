@@ -412,7 +412,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#56b6c2"
       }
     },
     {
@@ -545,28 +545,28 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#63dbeb"
       }
     },
     {
       "name": "Variables",
       "scope": "variable.c",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#63dbeb"
       }
     },
     {
       "name": "Language variables",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#63dbeb"
       }
     },
     {
       "name": "Java Variables",
       "scope": "token.variable.parameter.java",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#63dbeb"
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#00b7ff"
+        "foreground": "#c7d5c9"
       }
     },
     {
@@ -613,14 +613,14 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#a0c9ec"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#a0c9ec"
       }
     },
     {
@@ -631,7 +631,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#a0c9ec"
       }
     },
     {
@@ -645,7 +645,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#c7d5c9"
+        "foreground": "#c7e632"
       }
     },
     {
@@ -666,7 +666,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#00b7ff"
+        "foreground": "#c7d5c9"
       }
     },
     {
@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#00b7ff"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#ff8125"
       }
     },
@@ -989,7 +989,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cfbcbc"
       }
     },
     {
@@ -1003,35 +1003,35 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cfbcbc"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cfbcbc"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cfbcbc"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#16e62d"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#16e62d"
       }
     },
     {
@@ -1052,14 +1052,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#16e62d"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#80d915"
+        "foreground": "#16e62d"
       }
     },
     {
