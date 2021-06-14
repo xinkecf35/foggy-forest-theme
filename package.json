@@ -1,0 +1,22 @@
+{
+    "name": "foggy-forest-theme",
+    "displayName": "foggy-forest",
+    "description": "Custom Color Scheme, inspired by a Foggy Forest day",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Foggy Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/foggy-forest-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "xinkechen"
+}
