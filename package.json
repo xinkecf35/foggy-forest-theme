@@ -18,5 +18,9 @@
             }
         ]
     },
-    "publisher": "xinkechen"
+    "publisher": "xinkechen",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xinkecf35/foggy-forest-theme"
+    }
 }
